@@ -1,2 +1,1 @@
 
-print "only in SA"
